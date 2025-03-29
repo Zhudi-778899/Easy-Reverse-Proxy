@@ -7,6 +7,6 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 export let PROXIES: Proxy[] = [
   {
     domain: "easy-reverse-proxy-gray.vercel.app",
-    url: "https://test.zhudi.ggff.net/"
+    url: "http://test.zhudi.ggff.net/"
   }
 ];
